@@ -3,7 +3,7 @@ from queryset import SQLQuerySet
 
 st.header("Query to get Match Insights")
 
-# Initialize CRUD operations
+# Initialize Query Function
 sql_query = SQLQuerySet()
 
 operation = st.selectbox("Select a Query",["Top 10 Batsman in ODIs",
