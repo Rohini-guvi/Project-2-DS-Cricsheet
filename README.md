@@ -19,8 +19,12 @@ The objective of this project is to analyze
   
 **Code flow:**
 
+Streamlit App Page structure
+
 main.py
+
 |---------------ViewTable.Py
+
 |---------------Query.py
 
 **Visualizations:**
