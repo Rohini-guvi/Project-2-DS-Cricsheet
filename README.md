@@ -1,7 +1,9 @@
 # Project-2-DS-Cricsheet
-Cricsheet - IPL, ODI, T20 and Test Matches Data Analysis 
+
+**Cricsheet - IPL, ODI, T20 and Test Matches Data Analysis**
 
 **Objective:**
+
 The objective of this project is to analyze
 -  Team perform across IPL, T20, ODI and Test Matches​
 -  Performance of Players across matches​
